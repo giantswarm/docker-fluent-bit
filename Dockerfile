@@ -8,7 +8,7 @@ FROM alpine:3.5
 RUN apk --no-cache add --virtual .build-deps \
     curl cmake build-base \
   && cd /tmp \
-  && curl -L https://github.com/fluent/fluent-bit/archive/v0.11.0.tar.gz \
+  && curl -L https://github.com/fluent/fluent-bit/archive/v0.11.2.tar.gz \
     | tar -xz --strip 1 \
   && cmake -Wno-dev . \
   && make \
