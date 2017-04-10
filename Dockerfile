@@ -1,4 +1,5 @@
-FROM alpine:3.5
+# FROM alpine:3.5
+FROM frolvlad/alpine-glibc:alpine-3.5_glibc-2.24
 
 # http://fluentbit.io/documentation/0.11/installation/build_install.html
 
