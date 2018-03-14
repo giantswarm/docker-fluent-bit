@@ -1,4 +1,5 @@
 [![Docker Repository on Quay](https://quay.io/repository/giantswarm/docker-fluent-bit/status "Docker Repository on Quay")](https://quay.io/repository/giantswarm/docker-fluent-bit)
+[![CircleCI](https://circleci.com/gh/giantswarm/docker-fluent-bit.svg?style=svg&circle-token=f62e659d9aa2319853e79aad2dbccd8afa476f0f)](https://circleci.com/gh/giantswarm/docker-fluent-bit)
 
 # docker-fluent-bit
 
